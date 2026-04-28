@@ -13,13 +13,7 @@ build.ninja
 Makefile
 cmake_install.cmake
 
-build/*/CMakeCache.txt
-build/*/CMakeFiles/
-build/*/Makefile
-build/*/cmake_install.cmake
-build/*/kernel.iso
-build/*/disk.iso
-build/*/iso/
+build/
 
 !build/*/kernel.bin
 !build/*/kernel.img
